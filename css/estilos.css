@@ -55,8 +55,8 @@ body
 }
 #footer
 {
-    background:#777;
-    color: white;
+    background: blue;
+    color: blue;
     text-align: center;
     padding: 0.5em;
 }
